@@ -40,10 +40,8 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 
+![github.jpeg](https://github.com/rotaflex369/rotaflex/blob/e9190044aa8038ef9b4d378c6cfe792a7f5f3d5d/github.jpeg)
 
 # Backlog do produto
 
