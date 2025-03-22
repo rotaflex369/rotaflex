@@ -1,8 +1,6 @@
-# Rota Flex
+# Análise da Eficiência nos Portos Brasileiros (2014-2023)
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Nós, alunos do 4º semestre do curso de Logística da Fatec, desenvolvemos este projeto com o objetivo acadêmico de ampliar nossa capacidade analítica e aprimorar nossas habilidades logísticas, promovendo a prática interdisciplinar. Baseado na metodologia ágil SCRUM, o projeto visa estimular a proatividade, a autonomia, a colaboração e a entrega de resultados, preparando os participantes para desafios reais do mercado.
 
 # Índice
 * [Projeto](#projeto-template)
@@ -13,7 +11,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Nosso parceiro acadêmico solicitou à equipe uma análise detalhada da eficiência operacional do sistema portuário brasileiro no período de 2014 a 2023, com foco no carregamento de granéis. O estudo abrange três frentes principais.
+Primeiramente, busca-se compreender a variação da prancha média operacional de carregamento de granéis sólidos (t/h) ao longo dos meses dentro do período analisado, desenvolvendo um modelo preditivo baseado em tendências para avaliar o desempenho passado e projetar cenários futuros.
+Em segundo lugar, pretende-se examinar a distribuição estatística dos tempos de operação no berço, identificando padrões e variabilidades que impactam a eficiência do carregamento.
+Por fim, o projeto tem como objetivo ranquear os 10 principais terminais de movimentação de granéis, considerando o número de berços disponíveis e a respectiva prancha média operacional, proporcionando uma visão comparativa do desempenho desses terminais e possibilitando a identificação dos mais eficientes.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -26,12 +27,15 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo realizar uma análise aprofundada da eficiência operacional do sistema portuário brasileiro, com ênfase no carregamento de granéis, por meio de abordagens estatísticas e modelagens avançadas. Para isso, busca-se:
+* Examinar a variação mensal da prancha média operacional de carregamento, desenvolvendo um modelo preditivo baseado em tendências para projeção de desempenho futuro;
+* Avaliar a distribuição estatística dos tempos de operação no berço, identificando padrões e variabilidades que impactam a eficiência do carregamento;
+* Elaborar um ranking de eficiência dos 10 principais terminais de movimentação de granéis, considerando fatores operacionais críticos;
+* Criar um dashboard interativo para apresentação clara e informativa dos resultados da análise e do ranking, facilitando a tomada de decisão;
+*	Utilizar ferramentas como R para estruturar e conduzir a modelagem analítica dos dados;
+* Implementar a metodologia DEA (Data Envelopment Analysis) para avaliação comparativa da eficiência dos terminais portuários;
+* Desenvolver habilidades técnicas avançadas em análise de dados, modelagem estatística e tecnologias aplicadas à logística portuária.
+Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a eficiência do sistema portuário brasileiro, contribuindo para a otimização dos processos logísticos e a melhoria do desempenho operacional dos terminais analisados.
 
 ## Tecnologias Utilizadas
 
