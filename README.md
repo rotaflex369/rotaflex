@@ -52,15 +52,12 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Extração de dados do ANTAQ;
+- [ ] Tratamento de dados através do python;
+- [ ] Ranquear portos por peso carga bruta;
+- [ ] Ranquear portos por estado e por local;
+- [ ] Exportar os dados tratados em CSV para o Power BI;
+- [ ] Criar um visual parar a dashbaord;
 
 ## Sprint 2
 - [ ] Documento passo a passo;
