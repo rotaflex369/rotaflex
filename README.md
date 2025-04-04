@@ -85,7 +85,6 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-![Video Description](path/to/video.mp4)
 
 # Registro das Sprints
 
