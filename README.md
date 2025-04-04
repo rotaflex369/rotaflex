@@ -38,6 +38,11 @@ Este projeto tem como objetivo realizar uma análise aprofundada da eficiência 
 * Desenvolver habilidades técnicas avançadas em análise de dados, modelagem estatística e tecnologias aplicadas à logística portuária.
 Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a eficiência do sistema portuário brasileiro, contribuindo para a otimização dos processos logísticos e a melhoria do desempenho operacional dos terminais analisados.
 
+# Conteúdo do Projeto
+
+![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/main/arquivos/20250404_191736.gif)
+
+
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
