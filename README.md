@@ -40,7 +40,7 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 
 # Conteúdo do Projeto
 
-![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/main/arquivos/20250404_191736.gif)
+![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/sprint_2/arquivos/20250518_143715%20(1).gif)
 
 
 ## Tecnologias Utilizadas
