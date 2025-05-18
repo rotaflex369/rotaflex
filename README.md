@@ -60,10 +60,8 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 - [ ] Criar um visual parar a dashbaord;
 
 ## Sprint 2
-- [ ] Documento passo a passo;
+- [ ] Implementação das dashboards exigidas pelo cliente;
 - [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 3
