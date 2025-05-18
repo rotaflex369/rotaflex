@@ -38,6 +38,11 @@ Este projeto tem como objetivo realizar uma análise aprofundada da eficiência 
 * Desenvolver habilidades técnicas avançadas em análise de dados, modelagem estatística e tecnologias aplicadas à logística portuária.
 Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a eficiência do sistema portuário brasileiro, contribuindo para a otimização dos processos logísticos e a melhoria do desempenho operacional dos terminais analisados.
 
+# Conteúdo do Projeto
+
+![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/sprint_2/arquivos/20250518_143715%20(1).gif)
+
+
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
@@ -47,21 +52,16 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Extração de dados do ANTAQ;
+- [ ] Tratamento de dados através do python;
+- [ ] Ranquear portos por peso carga bruta;
+- [ ] Ranquear portos por estado e por local;
+- [ ] Exportar os dados tratados em CSV para o Power BI;
+- [ ] Criar um visual parar a dashbaord;
 
 ## Sprint 2
-- [ ] Documento passo a passo;
+- [ ] Implementação das dashboards exigidas pelo cliente;
 - [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 3
